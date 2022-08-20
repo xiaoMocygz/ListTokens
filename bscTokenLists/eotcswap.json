@@ -18,7 +18,7 @@
         "address": "0x52445374E55a63C0De647445D5B6a4244702980C",
         "chainId": 56,
         "decimals": 6,
-        "logoURI": "../img/eotc.png"
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
       },
       {
         "name": "Binance Pegged USDT",
@@ -26,7 +26,7 @@
         "address": "0x55d398326f99059fF775485246999027B3197955",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "../img/usdt.png"
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
       }      
     ]
   }
