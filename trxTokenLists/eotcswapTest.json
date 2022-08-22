@@ -1,28 +1,28 @@
 {
-    "name": "EotcSwap Extended",
-    "tokens": [
-        {
-            "symbol": "EOTC",
-            "address": "TCzZYKMZW7MLDzSgsCfwduMn15uZDvYEvQ",
-            "chainId": 1,
-            "decimals": 6,
-            "name": "Eotc Token",
-            "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
-        },
-        {
-            "symbol": "USDT",
-            "address": "TXLAQ63Xg1NAzckPwKHvzw7CSEmLMEqcdj",
-            "chainId": 1,
-            "decimals": 6,
-            "name": "Binance Pegged USDT",
-            "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
-        }
-    ],
-    "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotclist.png",
-    "version": {
-        "patch": 1,
-        "major": 0,
-        "minor": 0
-    },
-    "timestamp": 1651743320000
+  "name": "EotcSwap Extended",
+  "tokens": [
+      {
+          "symbol": "EOTC",
+          "address": "TCzZYKMZW7MLDzSgsCfwduMn15uZDvYEvQ",
+          "chainId": 1,
+          "decimals": 6,
+          "name": "EotcSwap Token",
+          "logoURI": "https://eotc.im/img/eotc32.png"
+      },
+      {
+          "symbol": "USDT",
+          "address": "TXLAQ63Xg1NAzckPwKHvzw7CSEmLMEqcdj",
+          "chainId": 1,
+          "decimals": 6,
+          "name": "Binance Pegged USDT",
+          "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+      }
+  ],
+  "logoURI": "https://trx.eotc.im/img/eotc.d53c0cdd.png",
+  "version": {
+      "patch": 0,
+      "major": 1,
+      "minor": 7
+  },
+  "timestamp": 1651743320000
 }
